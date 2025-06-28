@@ -1,0 +1,6 @@
+# Configuration du Bot Telegram
+# Remplacez YOUR_BOT_TOKEN par votre véritable token de bot Telegram
+BOT_TOKEN=YOUR_BOT_TOKEN
+
+# Exemple:
+# BOT_TOKEN=1234567890:ABCdefGHIjklMNOpqrsTUVwxyz 
